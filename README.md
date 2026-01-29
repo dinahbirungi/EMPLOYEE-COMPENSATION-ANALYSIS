@@ -62,5 +62,5 @@ Based on the analysis, the following actions are recommended:
 - Monitor departments with high overtime costs to control payroll spending
 - Review compensation structure for high-paying job roles to ensure alignment with organizational goals
 - Use workforce distribution insights to support staffing and budgeting decisions
-- Leverage dashboards for regular compensation reviews and workforce planning
+  
 
